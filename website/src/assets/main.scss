@@ -1,0 +1,30 @@
+@import './base.css';
+
+$purple: #8455E9;
+$green: #5ADD77;
+$pink: #E03BB2;
+
+body {
+    background-color: #201E23;
+}
+
+.text-purple {
+    color: $purple;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-green {
+    color: $green;
+}
+
+.text-pink {
+    color: $pink;
+}
+
+.container {
+    max-width: 1080px;
+    margin: auto;
+}

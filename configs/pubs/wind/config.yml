@@ -1,0 +1,11 @@
+mqtt:
+  protocol: 'tcp'
+  url: 'localhost'
+  port: '1883'
+
+sensor:
+  id: 3
+  airport: 'NTE'
+  frequency: 10
+  QOSLevel: 0
+  altitudeAirport: 100
